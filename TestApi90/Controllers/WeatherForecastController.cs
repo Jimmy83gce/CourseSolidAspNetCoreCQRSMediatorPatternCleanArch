@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace HR.LeaveManagement.Api.Controllers
+namespace TestApi90.Controllers
 {
     [ApiController]
     [Route("[controller]")]

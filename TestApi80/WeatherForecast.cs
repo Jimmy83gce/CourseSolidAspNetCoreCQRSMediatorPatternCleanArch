@@ -1,4 +1,4 @@
-namespace HR.LeaveManagement.Api
+namespace TestApi80
 {
     public class WeatherForecast
     {
